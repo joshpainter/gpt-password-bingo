@@ -64,6 +64,7 @@ Please let me know if you'd like me to generate the remaining rows.
 Let me know if you need any adjustments, and I'll continue generating the remaining rows.
 
 **Me:** Wow, great! 4 more please and remember, keep them unique!
+
 **ChatGPT4:** Here are rows 17 to 20 without repeating any words from the previous rows:
 
 1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
@@ -74,6 +75,7 @@ Let me know if you need any adjustments, and I'll continue generating the remain
 Please let me know if you need any adjustments, and I'll continue generating the remaining rows.
 
 **Me:** Impressive! I'm ready for 4 more plz - no repeats!
+
 **ChatGPT4:** Here are rows 21 to 24 without repeating any words from the previous rows:
 
 1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
@@ -84,6 +86,7 @@ Please let me know if you need any adjustments, and I'll continue generating the
 Please let me know if you need any adjustments, and I'll continue generating the remaining rows.
 
 **Me:** Perfect, let's do 4 more and keep them unique thank you!
+
 **ChatGPT4:** Here are rows 25 to 28 without repeating any words from the previous rows:
 
 1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
@@ -94,6 +97,7 @@ Please let me know if you need any adjustments, and I'll continue generating the
 Please let me know if you need any adjustments, and I'll continue generating the remaining rows.
 
 **Me:** Ok let's finish it off with the last 4 rows! no repeats plz and ty!
+
 **ChatGPT4:** Here are the final rows 29 to 32 without repeating any words from the previous rows:
 
 1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	16	17	18	19	20	21	22	23	24	25	26	27	28	29	30	31	32
@@ -104,6 +108,7 @@ Please let me know if you need any adjustments, and I'll continue generating the
 Now you have a complete 32x32 grid of unique words to help you manually generate a secure password. Let me know if you need any assistance or if there's anything else I can help you with.
 
 **Me:** Looks great! Now can you look back over all those rows and make sure there are no duplicates? If so, just tell me the coordinates for the existing word and the new word that should replace it. Give me a list if there are multiple.
+
 **ChatGPT4:** I apologize for the oversight; there are indeed duplicates in the grid. I have identified the duplicates and their coordinates, along with the new unique words that should replace them. Here's the list:
 
 Row 18, Column 27: Replace 'Dream' with 'Quota'

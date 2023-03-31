@@ -2,7 +2,7 @@
 I asked GPT4 to generate a 32x32 grid of random words to help in creating manual secure password phrases. Inspired by @bramcohen's tweet: https://twitter.com/bramcohen/status/1641882127137652738
 The markdown unfortunately didn't survive the copy/paste but it was rendered correctly in the ChatGPT4 interface. Replace tabs with pipe symbol to get back to markdown. See grid.md for full grid.
 
-**WARNING:** There are still lots of duplicate words in the grid. Do not use this as-is for choosing a password. Generate your own!
+**WARNING: There are still lots of duplicate words in the grid. Do not use this as-is for choosing a password. Generate your own!**
 
 # Prompt:
 
